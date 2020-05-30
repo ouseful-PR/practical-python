@@ -1,5 +1,7 @@
 # Welcome!
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-PR/practical-python/binderise)
+
 When I first learned Python nearly 25 years ago, I was immediately
 struck by how I could productively apply it to all sorts of messy work
 projects. Fast-forward a decade and I found myself teaching others the
